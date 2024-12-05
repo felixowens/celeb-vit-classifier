@@ -53,6 +53,7 @@ class Trainer:
             [
                 RandomResizedCrop(size),
                 RandomHorizontalFlip(p=0.5),
+                # TODO: implement - https://stackoverflow.com/questions/16702966/rotate-image-and-crop-out-black-borders
                 RandomAffine(
                     degrees=(-10, 10),  # Slight rotation
                     translate=(0.05, 0.05),  # Minor position shifts

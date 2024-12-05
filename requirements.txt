@@ -11,3 +11,4 @@ torchvision
 scikit-learn
 tensorboard
 mediapipe
+matplotlib
