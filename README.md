@@ -69,3 +69,7 @@ The model uses the following training parameters:
 - Warmup ratio: 0.1
 - Evaluation strategy: Per epoch
 - Best model checkpointing based on accuracy
+
+## License
+
+See the [LICENSE](LICENSE) file for details.
