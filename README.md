@@ -79,3 +79,5 @@ See the [LICENSE](LICENSE) file for details.
 - [ ] Hyperparameter tuning
 - [ ] Augmentation strategies
 - [ ] Expand dataset with more celebs
+- [ ] Shuffling dataset - currently alphabetical meaning train/test split is not random
+- [ ] Add more evaluation metrics
