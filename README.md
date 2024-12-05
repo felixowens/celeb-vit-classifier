@@ -73,3 +73,9 @@ The model uses the following training parameters:
 ## License
 
 See the [LICENSE](LICENSE) file for details.
+
+## Further improvements
+
+- [ ] Hyperparameter tuning
+- [ ] Augmentation strategies
+- [ ] Expand dataset with more celebs
